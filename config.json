@@ -1,0 +1,12 @@
+{
+
+    "OWNER_ID":"422871294078484482",
+    "BOT_TOKEN": "OTU4MzQ1MTEwNzk2NTMzNzYx.YkL-bw.OtCHhLs5yHj-qVdtbIhqOvcmPlE",
+    "tenorAPI":"ZEEELJXAFQBN",
+    "DEFAULT_PREFIX":"%",
+    "mongoPass": "mongodb+srv://JxstDev:41088900La@utilbot.okjex.mongodb.net/UtilBotDBretryWrites=true&w=majority",
+    "ERROR_LOGS_CHANNEL": "959471378757718066",
+    "YT_COOKIE": "__Secure-3PSIDCC=AJi4QfG4NkPDq02wWfz31NCdPs06fvWwU8L1qQCz9AmPYIz8u21swODs4NgPeHXs7c5zmAhxnVI; expires=Wed, 29-Mar-2023 12:47:37 GMT; path=/; domain=.youtube.com; Secure; HttpOnly; priority=high; SameSite=non"
+    
+}
+
